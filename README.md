@@ -1,4 +1,4 @@
 # ANALYSIS-OF-SIMULATED-COSMIC-MICROWAVE-BACKGROUND-POLARIZATION-DATA-
 
 
-![](https://imgur.com/DxRPH8U)
+![](https://i.imgur.com/DxRPH8U.jpg)
