@@ -10,12 +10,13 @@ Study of some cosmological dependencies ($r$ and $\tau$)
 ![](https://i.imgur.com/KUtmMSe.jpg)
 ![](https://i.imgur.com/F6iAZus.jpg)
 
-gggg 
+Data simulated from maps with Healpy's anafast
+![](https://i.imgur.com/ryl93Wx.jpg)
+
 ![](https://i.imgur.com/DxRPH8U.jpg)
 ![](https://i.imgur.com/8UEz7Bg.jpg)
 
 
-![](https://i.imgur.com/ryl93Wx.jpg)
 ![](https://i.imgur.com/VB7Bga3.jpg)
 
 ![](https://i.imgur.com/kmtXpyH.jpg)
