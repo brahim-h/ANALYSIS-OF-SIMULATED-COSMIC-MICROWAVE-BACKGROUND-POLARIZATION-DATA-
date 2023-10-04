@@ -5,8 +5,8 @@ Plots of ($C_\ell^{TT}$, $C_\ell^{EE}$, $C_\ell^{BB}$, $C_\ell^{TE}$) with key '
 
 ![](https://i.imgur.com/lhL00Sf.jpg)
 
-Study of some cosmological dependencies
-
+Study of some cosmological dependencies ($r$ and $\tau$) 
+![](https://i.imgur.com/KUtmMSe.jpg)
 ![](https://i.imgur.com/F6iAZus.jpg)
 
 ![](https://i.imgur.com/DxRPH8U.jpg)
