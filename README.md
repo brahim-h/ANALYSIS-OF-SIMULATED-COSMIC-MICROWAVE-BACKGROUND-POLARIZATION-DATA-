@@ -1,5 +1,5 @@
 # ANALYSIS-OF-SIMULATED-COSMIC-MICROWAVE-BACKGROUND-POLARIZATION-DATA-
-Plots of ($C_\ell^{TT}$, $C_\ell^{EE}$, $C_\ell^{BB}$, $C_\ell^{TE}$) with key 'total' : all contributions are used (tensor, lens_potential etc...)
+Plots of powers spectrum ($C_\ell^{TT}$, $C_\ell^{EE}$, $C_\ell^{BB}$, $C_\ell^{TE}$)
 
 
 
