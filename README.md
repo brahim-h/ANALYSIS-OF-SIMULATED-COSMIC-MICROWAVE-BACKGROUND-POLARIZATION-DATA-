@@ -13,7 +13,7 @@ Study of some cosmological dependencies ($r$ and $\tau$) :
 Data simulated from stokes parameters maps (T,Q,U) : 
 ![](https://i.imgur.com/ryl93Wx.jpg)
 
-MCMC (Marlov Chain Monte Carlo) method :
+MCMC (Marlov Chain Monte Carlo) method to estimate $r$ and $Alens$  :
 
 ![](https://i.imgur.com/DxRPH8U.jpg)
 
