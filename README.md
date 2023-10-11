@@ -24,5 +24,6 @@ Exemple of map with mask (via PyMaster / NaMaster) :
 
 ![](https://i.imgur.com/VB7Bga3.jpg)
 
+
 ![](https://i.imgur.com/kmtXpyH.jpg)
-![](https://i.imgur.com/uRWs9k3.jpg)
+
