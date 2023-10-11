@@ -10,12 +10,12 @@ Study of some cosmological dependencies ($r$ and $\tau$) :
 ![](https://i.imgur.com/KUtmMSe.jpg)
 ![](https://i.imgur.com/F6iAZus.jpg)
 
-map T 
+map T : 
 ![](https://i.imgur.com/WyJoxK6.jpg)
 
-map Q
+map Q : 
 ![](https://i.imgur.com/IqkyrQK.jpg)
-map U
+map U : 
 ![](https://i.imgur.com/7gD6n64.jpg)
 
 data simulated using stokes parameters maps (T,Q,U) : 
