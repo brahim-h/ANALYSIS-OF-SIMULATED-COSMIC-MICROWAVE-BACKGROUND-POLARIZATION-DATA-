@@ -13,7 +13,12 @@ Study of some cosmological dependencies ($r$ and $\tau$) :
 Data simulated from stokes parameters maps (T,Q,U) : 
 ![](https://i.imgur.com/ryl93Wx.jpg)
 
+MCMC (Marlov Chain Monte Carlo) method :
+
 ![](https://i.imgur.com/DxRPH8U.jpg)
+
+Map with mask (via PyMaster / NaMaster) : 
+
 ![](https://i.imgur.com/8UEz7Bg.jpg)
 
 
