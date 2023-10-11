@@ -5,12 +5,12 @@ Plots of ($C_\ell^{TT}$, $C_\ell^{EE}$, $C_\ell^{BB}$, $C_\ell^{TE}$) with key '
 
 ![](https://i.imgur.com/lhL00Sf.jpg)
 
-Study of some cosmological dependencies ($r$ and $\tau$) 
+Study of some cosmological dependencies ($r$ and $\tau$) : 
 
 ![](https://i.imgur.com/KUtmMSe.jpg)
 ![](https://i.imgur.com/F6iAZus.jpg)
 
-Data simulated from maps with Healpy's anafast
+Data simulated from stokes parameters maps (T,Q,U) : 
 ![](https://i.imgur.com/ryl93Wx.jpg)
 
 ![](https://i.imgur.com/DxRPH8U.jpg)
