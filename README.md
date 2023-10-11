@@ -17,7 +17,7 @@ MCMC (Marlov Chain Monte Carlo) method :
 
 ![](https://i.imgur.com/DxRPH8U.jpg)
 
-Map with mask (via PyMaster / NaMaster) : 
+Exemple of map with mask (via PyMaster / NaMaster) : 
 
 ![](https://i.imgur.com/8UEz7Bg.jpg)
 
