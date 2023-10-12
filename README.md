@@ -22,18 +22,18 @@ data simulated using stokes parameters maps (T,Q,U) :
 
 Estimation of r by gaussian Log-Likelihood minimization
 ---------------------------------------------------------
+ 
+$$-2 \log(L) =  fsky * \sum_{l} (2l+1)[C_{\ell}^{-1} D_{\ell} + ln(C_{\ell})] = \chi^{2}$$
 
-(for the  $C_{l}^{BB}$) : 
+$$ L = \exp\Big(-\left(\chi^{2} - \min(\chi^{2})\right)^{2}\Big) $$
 
-$$-2 \log(L) \approx \sum_{l} (2l+1)[C_{l}^{-1} D_{l} + ln(C_{l})] \approx \chi^{2}$$
-
-$$ L \approx \exp\Big(-\left(\chi^{2} - \min(\chi^{2})\right)^{2}\Big) $$
-
-Where $C_{l}$ is the theoretical spectrum (the model) and where $D_{l}$ is the reconstructed spectrum with white noise. 
+Where $C_{\ell}$ is the theoretical spectrum (the model) and $D_{\ell}$ is the reconstructed spectrum with white noise. 
 
 For the covariance, we can write : 
 
-$$C_{l}(r) = \frac{1}{r_{0}} r  C_{l, tensor}^{BB}(r = r_{0}) + C_{l,lensing}^{BB} + N_{l}$$
+$$C_{\ell}(r) = \frac{1}{r_{0}} r  C_{\ell, tensor}^{BB}(r = r_{0}) + C_{\ell,lensing}^{BB} + N_{\ell}$$
+
+Where $N_{\ell}$ is the white noise. 
 
 ![](https://i.imgur.com/Dj8M0xL.jpg)
 
