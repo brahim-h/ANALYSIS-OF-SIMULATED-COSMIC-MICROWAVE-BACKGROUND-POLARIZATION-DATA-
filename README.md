@@ -2,7 +2,6 @@
 Plots of powers spectrum ($C_\ell^{TT}$, $C_\ell^{EE}$, $C_\ell^{BB}$, $C_\ell^{TE}$)
 
 
-
 ![](https://i.imgur.com/lhL00Sf.jpg)
 
 Study of some cosmological dependencies ($r$ and $\tau$) : 
