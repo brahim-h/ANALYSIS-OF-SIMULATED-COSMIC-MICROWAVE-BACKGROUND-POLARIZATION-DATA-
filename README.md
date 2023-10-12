@@ -23,7 +23,7 @@ data simulated using stokes parameters maps (T,Q,U) :
 Estimation of r by gaussian Log-Likelihood minimization
 ---------------------------------------------------------
 
-We can show (from [Errard et al.2019](https://doi.org/10.1103%2Fphysrevd.99.043529) : 
+We can show (from [J.Errard et al 2019](https://doi.org/10.1103%2Fphysrevd.99.043529)) : 
  
 $$-2 \log(L) =  fsky * \sum_{l} (2l+1)[C_{\ell}^{-1} D_{\ell} + ln(C_{\ell})] = \chi^{2}$$
 
